@@ -59,7 +59,7 @@ $env:EMAIL_PASS="sua_senha_de_app"
 ### Rodando os scripts
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/python-automacoes-semana1.git
+   git clone https://github.com/Matheus780-dev/python-automacoes-semana1.git
    ```
 2. Entre na pasta do projeto.
 3. Execute o script desejado:
