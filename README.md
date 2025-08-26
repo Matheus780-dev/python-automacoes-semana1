@@ -88,4 +88,4 @@ $env:EMAIL_PASS="sua_senha_de_app"
 ---
 
 ## 📌 Autor
-Projeto desenvolvido por **Matheus Oliveira** como parte do plano intensivo de **Automação com Python + UiPath (4 semanas)**.
+Projeto desenvolvido por **Matheus** como parte do plano intensivo de **Automação com Python + UiPath (4 semanas)**.
